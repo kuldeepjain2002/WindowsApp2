@@ -1,0 +1,17 @@
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.CreateSubmissionForm.resources
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.ViewSubmissionsForm.resources
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kuldeep2\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsA.77BC09DE.Up2Date
